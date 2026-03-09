@@ -1,0 +1,30 @@
+{
+  "name": "@tellr/cli",
+  "version": "0.1.0",
+  "description": "Hybrid Web 4.0 agent CLI for creating, running, and deploying modular agents with tools, memory, observability, and secure API-first execution.",
+  "type": "module",
+  "bin": {
+    "tellr": "./bin/tellr.js"
+  },
+  "scripts": {
+    "start": "node ./bin/tellr.js",
+    "dev": "node ./bin/tellr.js --help"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "web4",
+    "cli",
+    "automation",
+    "memory",
+    "observability",
+    "developer-tools"
+  ],
+  "author": "TELLR",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "dotenv": "^16.4.5"
+  }
+}
