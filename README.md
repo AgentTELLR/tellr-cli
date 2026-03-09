@@ -152,7 +152,7 @@ MIT License
 
 ## Links
 
-- Website: https://tellr.xyz
+- Website: https://agenttellr.xyz
 
 ## Tagline
 
